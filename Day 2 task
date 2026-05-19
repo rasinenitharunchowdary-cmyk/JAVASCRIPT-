@@ -4,7 +4,7 @@
 
 // 2. Create a variable and store your mobile number.
       
-      let mobileNumber = 9381551411;
+      let mobileNumber = 6301138248;
 
 // 3. Create a boolean variable with false value.
 
@@ -180,8 +180,8 @@
 
 // 39. Create one array with mixed datatypes.
 
-       let mixedArray = ["hello", 25, true, null, { city: "Salem" }];
+       let mixedArray = ["hello", 25, true, null, { city: "Anantapur" }];
 
 // 40. Create object with student details:
 
-       let student = { name: "Hari", mark: 95, passed: true }
+       let student = { name: "Tharun", mark: 95, passed: true }
